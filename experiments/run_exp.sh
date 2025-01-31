@@ -9,7 +9,7 @@ EXPERIMENT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # Assign input arguments with default values
 GPU_IDS=${1:-0}
 BENCHMARK_TYPE=${2:-comm} # choose from "comm" and "math"
-MODEL_NAME_OR_PATH=${3:-"meta-llama/Llama-2-13b-hf"}
+MODEL_NAME_OR_PATH=${3:-"meta-llama/Llama-3.1-8B"}
 OUTPUT=${4:-celora_llama3}
 WANDB_PROJECT=${5:-CELORA_EXP}
 TRAIN_MODE=${6:-celora}
