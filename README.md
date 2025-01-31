@@ -1,4 +1,4 @@
-# CE-LoRA: Computational-Efficient LoRA Fine-Tuning for Language Models
+# CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models
 
 ## Installation
 
