@@ -1,0 +1,14 @@
+{ 
+  "v_proj": {
+    "sample_ratio": 0.55
+  },
+  "o_proj": {
+    "sample_ratio": 0.55
+  },
+  "up_proj": {
+    "sample_ratio": 0.65
+  },
+  "down_proj": {
+    "sample_ratio": 0.65
+  }
+}
